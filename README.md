@@ -293,7 +293,7 @@ Those following tools were used in the project development:
 
 <p align="center">
   <a href="#mag_right-about-the-project-react">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#desktop_computer-layout-of-the-applicationdesktop-react">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desktop_computer-layout-of-the-application-react">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-launching-the-project-react">Lauching the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#man_technologist-used-technologies-react">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#raising_hand_man-developer-react">Developer</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
