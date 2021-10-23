@@ -161,18 +161,18 @@ Those following tools were used in the project development:
 </h4>
 
 <p align="center">
-  <a href="#desktop_computer-about-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-working-of-the-api">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-using-the-api">Lauching the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#man_technologist-used-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#raising_hand_man-developer">Developer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#trophy-acknowledgment">Acknowledgment</a> 
+  <a href="#desktop_computer-about-the-project-elixir">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-working-of-the-api-elixir">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-using-the-api-elixir">Lauching the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man_technologist-used-technologies-elixir">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#raising_hand_man-developer-elixir">Developer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#trophy-acknowledgment-elixir">Acknowledgment</a> 
 </p>
 
 </br>
 </br>
 
-## :desktop_computer: About the project:
+## :desktop_computer: About the project Elixir:
 
 :comet: Next Level Week Heat | Elixir API - Is a part of a greater course, that covers all development areas, from back-end to front-end to mobile, and on the fourth day of four in the course we create an Elixir API that handles message registry, event scheduling and retrieve the most used word in messages DB, based on the result of an event that is time scheduled.
 
@@ -182,7 +182,7 @@ Those following tools were used in the project development:
 
 </br>
 
-## :gear: Working of the API:
+## :gear: Working of the API Elixir:
 
 ### Registering a Message:
  <img alt="NLWHEAT-Elixir" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1635009768/NLW4/Screenshot_from_2021-10-23_14-22-28_dbguta.png">
@@ -197,7 +197,7 @@ Those following tools were used in the project development:
 </br>
 </br>
 
-## :rocket: Using the API:
+## :rocket: Using the API Elixir:
 
 The application only has a backend part:
 
@@ -222,7 +222,7 @@ The application only has a backend part:
 <img align="center" alt="VisualStudioCode" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"> [VSCode](https://code.visualstudio.com/)</img>
 </br>
 
-### :gear: Starting the App:
+### :gear: Starting the App Elixir:
 
  ```bash
 
@@ -252,7 +252,7 @@ The application only has a backend part:
  
  ---
  
-## :man_technologist: Used Technologies:
+## :man_technologist: Used Technologies Elixir:
 
 Those following tools were used in the project development:
 
@@ -264,7 +264,7 @@ Those following tools were used in the project development:
 
 </br>
 
-## :raising_hand_man: Developer
+## :raising_hand_man: Developer Elixir
 
 <a href="https://github.com/ViniciusResende">
  	<img src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1613257612/foto_perfil_rounded_mv1cpi.png" width="100px;" alt=""/>
@@ -272,7 +272,7 @@ Those following tools were used in the project development:
  	<b>Vinícius Alves</b></a> <a href="https://github.com/ViniciusResende" title="Vinícius Alves"></a>
  <br />
  
- ## :trophy: Acknowledgment
+ ## :trophy: Acknowledgment Elixir
 
 <a href="https://rocketseat.com.br/">
  	<img src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh.jpg" width="100px" alt="Rocketseat-logo"/>
@@ -292,18 +292,18 @@ Those following tools were used in the project development:
 </h4>
 
 <p align="center">
-  <a href="#mag_right-about-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#desktop_computer-layout-of-the-applicationdesktop">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-launching-the-project">Lauching the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#man_technologist-used-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#raising_hand_man-developer">Developer</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#trophy-acknowledgment">Acknowledgment</a> 
+  <a href="#mag_right-about-the-project-react">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desktop_computer-layout-of-the-applicationdesktop-react">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-launching-the-project-react">Lauching the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man_technologist-used-technologies-react">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#raising_hand_man-developer-react">Developer</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#trophy-acknowledgment-react">Acknowledgment</a> 
 </p>
 
 </br>
 </br>
 
-## :mag_right: About the project:
+## :mag_right: About the project React:
 
 :mag_right:  DoWhile 2021 WebApp - An Application visioning to provide a good platform for people who are interested in the DoWhile 2021 Rocketseat event to post messages and see other people messages.
 
@@ -313,7 +313,7 @@ Those following tools were used in the project development:
 
 </br>
 
-## :desktop_computer: Layout of the Application:
+## :desktop_computer: Layout of the Application React:
  
 ### Main Screen:
  <img alt="dowhile-MainScreen" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1635010926/NLW4/DoWhileReact_fxlqhw.gif">
@@ -322,7 +322,7 @@ Those following tools were used in the project development:
 </br>
 </br>
 
-## :rocket: Launching the project:
+## :rocket: Launching the project React:
 
 The application only has a frontend part:
 
@@ -340,7 +340,7 @@ The application only has a frontend part:
 
 </br>
  
-### :tv: Starting the Frontend:
+### :tv: Starting the Frontend React:
  
  ```bash 
  
@@ -369,7 +369,7 @@ The application only has a frontend part:
  
  ---
  
-## :man_technologist: Used Technologies:
+## :man_technologist: Used Technologies React:
 
 Those following tools were used in the project development:
 
@@ -382,7 +382,7 @@ Those following tools were used in the project development:
 
 </br>
 
-## :raising_hand_man: Developer
+## :raising_hand_man: Developer React
 
 <a href="https://github.com/ViniciusResende">
  	<img src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1613257612/foto_perfil_rounded_mv1cpi.png" width="100px;" alt=""/>
@@ -390,7 +390,7 @@ Those following tools were used in the project development:
  	<b>Vinícius Alves</b></a> <a href="https://github.com/ViniciusResende" title="Vinícius Alves"></a>
  <br />
  
-## :trophy: Acknowledgment
+## :trophy: Acknowledgment React
 
 <a href="https://rocketseat.com.br/">
  	<img src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh.jpg" width="100px;" alt="Rocketseat-logo"/>
@@ -409,18 +409,18 @@ Those following tools were used in the project development:
 </h4>
 
 <p align="center">
-  <a href="#mag_right-about-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iphone-layout-of-the-application">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-launching-the-project">Lauching the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#man_technologist-used-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#raising_hand_man-developer">Developer</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#trophy-acknowledgment">Acknowledgment</a> 
+  <a href="#mag_right-about-the-project-react-native">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-layout-of-the-application-react-native">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-launching-the-project-react-native">Lauching the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man_technologist-used-technologies-react-native">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#raising_hand_man-developer-react-native">Developer</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#trophy-acknowledgment-react-native">Acknowledgment</a> 
 </p>
 
 </br>
 </br>
 
-## :mag_right: About the project:
+## :mag_right: About the project React Native:
 
 :mag_right:  DoWhile 2021 Native Mobile App - An Application visioning to provide a good platform, as a native mobile app, for people who are interested in the DoWhile 2021 Rocketseat event to post messages and see other people messages.
 
@@ -430,7 +430,7 @@ Those following tools were used in the project development:
 
 </br>
 
-## :iphone: Layout of the Application:
+## :iphone: Layout of the Application React Native:
  
 ### Main Screen:
  <img alt="DOwhile-mainscreen" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1635012396/NLW4/DOWHileApp_ppnsce.gif">
@@ -438,7 +438,7 @@ Those following tools were used in the project development:
 </br>
 </br>
 
-## :rocket: Launching the project:
+## :rocket: Launching the project React Native:
 
 The application is the mobile part of a Full Stack app:
 
@@ -457,7 +457,7 @@ The application is the mobile part of a Full Stack app:
 
 </br>
  
-### 	:desktop_computer: Starting the Aplication:
+### 	:desktop_computer: Starting the Aplication React Native:
  
  ```bash 
  
@@ -488,7 +488,7 @@ The application is the mobile part of a Full Stack app:
  
  ---
  
-## :man_technologist: Used Technologies:
+## :man_technologist: Used Technologies React Native:
 
 Those following tools were used in the project development:
 
@@ -501,7 +501,7 @@ Those following tools were used in the project development:
 
 </br>
 
-## :raising_hand_man: Developer
+## :raising_hand_man: Developer React Native
 
 <a href="https://github.com/ViniciusResende">
  	<img src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1613257612/foto_perfil_rounded_mv1cpi.png" width="100px;" alt=""/>
@@ -509,7 +509,7 @@ Those following tools were used in the project development:
  	<b>Vinícius Alves</b></a> <a href="https://github.com/ViniciusResende" title="Vinícius Alves"></a>
  <br />
  
-## :trophy: Acknowledgment
+## :trophy: Acknowledgment React Native
 
 <a href="https://rocketseat.com.br/">
  	<img src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh.jpg" width="100px;" alt="freeCodeCamp-logo"/>
