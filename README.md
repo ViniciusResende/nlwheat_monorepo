@@ -9,10 +9,10 @@ Full Stack development, building back-end APIs, front-end WebApp and a Native Mo
 </h4>
 
 <p align="center">
-  <a href="#desktop_computer-about-the-project">NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-working-of-the-api">Elixir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-using-the-api">React WebApp</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#man_technologist-used-technologies">React Native App</a>
+  <a href="#---1">NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#---2">Elixir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#---3">React WebApp</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#---4">React Native App</a>
 </p>
 
 
@@ -26,18 +26,18 @@ Full Stack development, building back-end APIs, front-end WebApp and a Native Mo
 </h4>
 
 <p align="center">
-  <a href="#desktop_computer-about-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-working-of-the-api">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-using-the-api">Lauching the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#man_technologist-used-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#raising_hand_man-developer">Developer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#trophy-acknowledgment">Acknowledgment</a> 
+  <a href="#desktop_computer-about-the-project-node">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-working-of-the-api-node">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-using-the-api-node">Lauching the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man_technologist-used-technologies-node">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#raising_hand_man-developer-node">Developer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#trophy-acknowledgment-node">Acknowledgment</a> 
 </p>
 
 </br>
 </br>
 
-## :desktop_computer: About the project:
+## :desktop_computer: About the project Node:
 
 :comet: Next Level Week Heat | Node API - Is a part of a greater course, that covers all development areas, from back-end to front-end to mobile, and on the first day of four in the course we create a Node API that handles authentication with JWT Token, user registration, and real time messages receiving and publishing.
 
@@ -47,7 +47,7 @@ Full Stack development, building back-end APIs, front-end WebApp and a Native Mo
 
 </br>
 
-## :gear: Working of the API:
+## :gear: Working of the API Node:
 
 ### GET User Profile:
  <img alt="NLWHEAT-Profile" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1635002630/NLW4/Screenshot_from_2021-10-23_12-23-00_kyy6mv.png">
@@ -64,7 +64,7 @@ Full Stack development, building back-end APIs, front-end WebApp and a Native Mo
 </br>
 </br>
 
-## :rocket: Using the API:
+## :rocket: Using the API Node:
 
 The application is a Full Stack app:
 
@@ -87,7 +87,7 @@ The application is a Full Stack app:
 <img align="center" alt="VisualStudioCode" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"> [VSCode](https://code.visualstudio.com/)</img>
 </br>
 
-### :gear: Starting the App:
+### :gear: Starting the App Node:
 
  ```bash
 
@@ -118,7 +118,7 @@ The application is a Full Stack app:
  
  ---
  
-## :man_technologist: Used Technologies:
+## :man_technologist: Used Technologies Node:
 
 Those following tools were used in the project development:
 
@@ -134,7 +134,7 @@ Those following tools were used in the project development:
 
 </br>
 
-## :raising_hand_man: Developer
+## :raising_hand_man: Developer Node
 
 <a href="https://github.com/ViniciusResende">
  	<img src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1613257612/foto_perfil_rounded_mv1cpi.png" width="100px;" alt=""/>
@@ -142,7 +142,7 @@ Those following tools were used in the project development:
  	<b>Vinícius Alves</b></a> <a href="https://github.com/ViniciusResende" title="Vinícius Alves"></a>
  <br />
  
- ## :trophy: Acknowledgment
+ ## :trophy: Acknowledgment Node
 
 <a href="https://rocketseat.com.br/">
  	<img src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh.jpg" width="100px;" alt="RocketSeat-logo"/>
